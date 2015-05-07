@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Tic Tac Toe By Nitesh Mudireddy</string>
+</resources>
